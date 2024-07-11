@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    border: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+section {
+    justify-content: center;
+    min-height: 100vh;
+    justify-items: center;
+}
+
+.container {
+    max-width: 1140px;
+    width: 100%;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-right: -12px;
+    margin-left: -12px;
+}
+
+.col-8 {
+    width: 66.66%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.col-4 {
+    width: 33.33%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.head-1 {
+    font-family: DM Sans, ss;
+    font-size: 42px;
+    line-height: 52px;
+    letter-spacing: -0.4000000059604645px;
+    text-align: left;
+    margin-top: 91px;
+    color: #1E0E62;
+}
+
+.head-2 {
+    font-family: DM Sans, sans-serif;
+    font-size: 22px;
+    line-height: 32px;
+    text-align: left;
+    margin-top: 36px;
+    color: #1E0E62;
+}
+
+.date {
+    font-family: DM Sans, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    text-align: left;
+    margin-top: 12px;
+    color: #A1A1B0;
+}
+
+.date-1 {
+    font-family: DM Sans, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    text-align: left;
+    margin-top: 12px;
+    color: #A1A1B0;
+
+}
+.para-1 {
+    font-family: DM Sans, sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: left;
+    color: #1E0E62;
+    margin-top: 29px;
+}
+
+.para-2 {
+    font-family: DM Sans, sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: left;
+    color: #1E0E62;
+    margin-top: 34px;
+}
+
+.para-3 {
+    font-family: DM Sans, sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    color: #A1A1B0;
+    margin-top: 13px;
+}
+
+.para-4 {
+    font-family: DM Sans, sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    color: #A1A1B0;
+    margin-top: 29px;
+}
+
+.para-5 {
+    font-family: DM Sans, sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    color: #A1A1B0;
+    margin-top: 16px;
+    margin-bottom: 159px;
+}
+
+.photo {
+    font-family: DM Sans, sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    color: #A1A1B0;
+    margin-top: 26px;
+}
+
+.pic-1 {
+    margin-top: 52px;
+    width: 700px;
+    height: 400px;
+    top: 648.8px;
+    text-align: left;
+}
+
+.pic-2 {
+    margin-top: 52px;
+    width: 700px;
+    height: 400px;
+    top: 648.8px;
+}
+
+.outline {
+    width: 220px;
+    height: 50px;
+    border-radius: 100px 100px 100px 100px;
+    border: 2px solid #EBEAED;
+    margin-top: 18px;
+    margin-left: 30px;
+}
+
+.btn {
+    width: 80px;
+    height: 50px;
+    border-radius: 100px 100px 100px 100px;
+    background: #25DAC5;
+    color: white;
+}
+
+.head-4 {
+    font-family: DM Sans, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    text-align: left;
+    color: #A1A1B0;
+    margin-top: 50px;
+}
+
+.btn-2 {
+    width: 130px;
+    height: 40px;
+    border-radius: 100px 100px 100px 100px;
+    background: #E93A7D;
+    color: white;
+    margin-top: 26px;
+}
+
+.image {
+    display: flex;
+    margin-top: 18px;
+}
+
+.para-6 {
+    margin-left: 19px;
+    font-family: DM Sans, sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    color: #1E0E62;
+}
+
+.para-9 {
+    margin-top: 95px;
+    font-family: DM Sans, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    text-align: left;
+    color: #A1A1B0;
+}
+
+.para-7 {
+    font-family: DM Sans, sans-serif;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: left;
+    margin-top: 31px;
+    margin-left: 32px;
+    color: #1E0E62;
+
+}
+
+.para-8 {
+    font-family: DM Sans, sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    margin-left: 32px;
+    color: #A1A1B0;
+}
+
+.card-3 {
+    width: 370px;
+    height: 186px;
+    top: 833px;
+    left: 915px;
+    border-radius: 10px 10px 10px 10px;
+    border: 2px solid #EBEAED;
+    margin-top: 45px;
+}
+
+.date {
+    margin-left: 19px;
+}
